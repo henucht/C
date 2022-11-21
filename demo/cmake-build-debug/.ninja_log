@@ -1,0 +1,5 @@
+# ninja log v5
+1	254	6906376155714439	CMakeFiles/demo.dir/main.c.obj	3773dd0fc0a3a3bf
+254	610	6906376159218054	demo.exe	bee53f789876d7d9
+1	285	6906379179933879	build.ninja	15f7ffefab4b8416
+2	294	6906379923764948	CMakeFiles/demo.dir/demo.c.obj	6ed6f8fa288756d6
